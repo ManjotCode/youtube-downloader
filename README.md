@@ -19,6 +19,4 @@ To run this program use
 ```python youtube_downloads.py ```
 <br>
 ## Exit
-To stop use 
-
-```C-c```
+To stop use ```C-c```
